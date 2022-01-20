@@ -9,4 +9,10 @@ _____
 Lebron James
 Kobe
 Wade
+<<<<<<< Updated upstream
 Bash
+=======
+
+Task2:
+	ABC
+>>>>>>> Stashed changes

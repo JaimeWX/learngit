@@ -5,6 +5,3 @@ Git tracks changes of files.
 WX
 Creating a new branch is quick AND simple.
 WX1
-
-
-

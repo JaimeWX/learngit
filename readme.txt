@@ -6,4 +6,10 @@ WX
 Creating a new branch is quick AND simple.
 WX1
 Stash
-This sentence is used to test how to fix bug.
+<<<<<<< HEAD
+
+=======
+__________________________________________________
+
+
+>>>>>>> dev
